@@ -1,0 +1,1040 @@
+body{
+    background-image: url(https://e0.pxfuel.com/wallpapers/75/581/desktop-wallpaper-mountain-minimalist-night-resolution-minimalist-and-background-1366-x-768-minimalist.jpg);
+}
+body {
+      background-repeat: no-repeat;
+      background-position: center;
+      background-attachment:fixed;
+      background-size:cover;
+      height: 250vh;
+    }
+
+nav {
+    backdrop-filter: blur(10px);
+    background-color: rgba(159, 159, 159, 0.4);
+    padding: 30px;
+    width: 90%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between; 
+    border-radius: 60px;
+    margin-right: 30%;
+    margin-left:25px;
+    margin-top: 0%;
+    font-size: 20px;
+  }
+  .navbar-right a {
+    text-decoration: none;
+    color: #ffffff; 
+    border: none;
+    padding: 0px 30px;
+    border-radius: 0px;
+    cursor: pointer;
+  }
+  .name {
+    font-size: 50px;
+    margin-top: 30px;
+    margin-left: 60px;
+    color: aliceblue;
+  }
+  .pic img{
+    border-radius: 50%;
+    margin-left:65%;
+    margin-right: 5px;
+    margin-top: -45%;
+  }
+  .per1 b{
+    font-size: 1px;
+    color: aliceblue;
+    margin-left: 20%;
+  }
+  .per1 p{
+    font-size: 3px;
+    color: aliceblue;
+    margin-left: 60px;
+    text-decoration: none;
+  }
+  .per1 b p{
+    margin-top: 5px;
+  }
+  .per1{
+    border: 10px;
+    padding: 30px 10px;
+    text-decoration: none;
+    backdrop-filter: blur(2px);
+    background-color: rgba(159, 159, 159, 0.4);
+    color:white; 
+    margin-top:35px;
+    margin-left: 100px;
+    margin-right: 100px;
+    border-radius: 15px;
+    position: relative;
+  }
+  .edu {
+    border: 30px;
+    padding: 10px 10px;
+    text-decoration: none;
+    backdrop-filter: blur(2px);
+    background-color: rgba(159, 159, 159, 0.4);
+    color:white; 
+    font-size: 25px;
+    margin-top:30px;
+    margin-left: 100px;
+    margin-right: 100px;
+    border-radius: 15px;
+    position: relative;
+}
+.edu img{
+    border-radius: 50%;
+    height: 100px;
+    margin-top:15px;
+    margin-left: 30px;
+}
+.edu p{
+    margin-top: -90px;
+    margin-left: 150px;
+    color:aliceblue;
+    font-size: 25px;
+}
+.ac{
+    border: 10px;
+    padding: 30px 10px;
+    text-decoration: none;
+    backdrop-filter: blur(3px);
+    background-color: rgba(159, 159, 159, 0.4);
+    color:white; 
+    font-size: 25px;
+    margin-top:30px;
+    margin-left: 100px;
+    margin-right: 100px;
+    border-radius: 15px;
+    position: relative;
+}
+.picc img{
+    margin-top: 25px;
+    margin-left: 30px;
+}
+.picc1 img{
+    margin-left:30%;
+    margin-top: 30px;
+}
+.picc2 img{
+    margin-top: 30px;
+    margin-left: 30px;
+}
+.ac p{
+    margin-top: -180px;
+    margin-left: 300px;
+    text-decoration: none;
+    font-size: 10px;
+}
+.picc3 img{
+    margin-top: 50px;
+    margin-left: 30px;
+}
+.picc4 img{
+    margin-top: 30px;
+    margin-left: 30px;
+}
+.picc5 img{
+    margin-top: 30px;
+    margin-left: 30px;
+}
+.bcc{
+    border: 30px;
+    padding: 20px 50px;
+    text-decoration: none;
+    backdrop-filter: blur(3px);
+    background-color: rgba(159, 159, 159, 0.2);
+    color:white; 
+    font-size: 20px;
+    margin-top:30px;
+    margin-left: 100px;
+    margin-right: 100px;
+    border-radius: 15px;
+    position: relative;
+}
+.bcc p{
+    margin-top: -200px;
+    margin-left: 300px;
+    text-decoration:none;
+    font-size: 25px;
+    height: 10vh;
+}
+.cc{
+    border: 30px;
+    text-decoration: none;
+    backdrop-filter: blur(3px);
+    background-color: rgba(159, 159, 159, 0.2);
+    color:white; 
+    font-size: 20px;
+    margin-top:30px;
+    margin-left: 100px;
+    margin-right: 100px;
+    position: relative;
+}
+.B{
+    height: 100vh;
+    display: grid;
+    grid-template-columns: auto auto;
+    grid-template-rows: auto auto;
+    margin-top: 20px;
+  }
+  .B img{
+    border-radius: 30px;
+    margin-top: 10px;
+  }
+  .B > div{
+    height: 100px;
+    margin: 5px;
+    margin-left: 25px;
+    margin-top: 20px;
+  }
+.keelasee img{
+    margin-top: 50px;
+}
+.game img{
+    margin-left:400px;
+    display: flex;
+    margin-top: -53%;
+}
+.dek img{
+    margin-top:100px;
+}
+.ten img{
+    margin-left:350px;
+    display: flex;
+    margin-top:-320px;
+}
+.kai {
+    border: 30px;
+    padding: 30px 50px;
+    text-decoration: none;
+    backdrop-filter: blur(2px);
+    background-color: rgba(159, 159, 159, 0.4);
+    color:white; 
+    font-size: 25px;
+    margin-top:30px;
+    margin-left: 100px;
+    margin-right: 100px;
+    border-radius: 15px;
+    position: relative;
+}
+.pud {
+    margin-left:15px;
+    display:contents;
+    justify-content: center;
+}
+.kai p{
+    font-size: 10px;
+    margin-left: 50%;
+    margin-top: -30%;
+}
+.it img{
+    margin-top: 15%;
+}
+.python img{
+ 
+        margin-top: 10%;
+    
+}
+.ai img{
+     
+    margin-top: 10%;
+}
+.tue img{
+margin-top: 20%;
+}
+.fly img{
+     
+    margin-top: 15%;
+}
+footer {
+    background-color: #336699;
+    padding: 5px;
+    padding-bottom: 0 px;
+    text-align: center;
+    color: white;
+    height: 50px;
+    display: block;
+}
+@media  screen and (max-width:1180px) and (min-width:800px){
+    body{
+        background-image: url(https://e0.pxfuel.com/wallpapers/75/581/desktop-wallpaper-mountain-minimalist-night-resolution-minimalist-and-background-1366-x-768-minimalist.jpg);
+    }
+    body {
+          background-repeat: no-repeat;
+          background-position: center;
+          background-attachment:fixed;
+          background-size:cover;
+          height: 250vh;
+        }
+    
+    nav {
+        backdrop-filter: blur(10px);
+        background-color: rgba(159, 159, 159, 0.4);
+        padding: 30px;
+        width: 90%;
+        display: flex;
+        align-items: center;
+        justify-content: space-between; 
+        border-radius: 60px;
+        margin-right: 30%;
+        margin-left:25px;
+        margin-top: 0%;
+        font-size: 25px;
+      }
+      .navbar-right a {
+        text-decoration: none;
+        color: #ffffff; 
+        border: none;
+        padding: 0px 30px;
+        border-radius: 0px;
+        cursor: pointer;
+      }
+      .name {
+        font-size: 40px;
+        margin-top: 50px;
+        margin-left: 60px;
+        color: aliceblue;
+      }
+      .pic img{
+        border-radius: 50%;
+        margin-left:65%;
+        margin-right: 5px;
+        margin-top: -30%;
+      }
+      .per1 b{
+        font-size: 35px;
+        color: aliceblue;
+        margin-left: 20%;
+        margin-top: 10px;
+      }
+      .per1 p{
+        font-size: 25px;
+        color: aliceblue;
+        margin-left: 40px;
+        text-decoration: none;
+      }
+      .per1 b p{
+        margin-top: 5px;
+      }
+      .per1{
+        border: 10px;
+        padding: 30px 10px;
+        text-decoration: none;
+        backdrop-filter: blur(2px);
+        background-color: rgba(159, 159, 159, 0.4);
+        color:white; 
+        margin-top:35px;
+        margin-left: 100px;
+        margin-right: 100px;
+        border-radius: 15px;
+        position: relative;
+      }
+      .edu {
+        border: 30px;
+        padding: 10px 10px;
+        text-decoration: none;
+        backdrop-filter: blur(2px);
+        background-color: rgba(159, 159, 159, 0.4);
+        color:white; 
+        font-size: 25px;
+        margin-top:30px;
+        margin-left: 100px;
+        margin-right: 100px;
+        border-radius: 15px;
+        position: relative;
+    }
+    .edu img{
+        border-radius: 50%;
+        height: 100px;
+        margin-top:15px;
+        margin-left: 30px;
+    }
+    .edu b{
+        font-size: 35px;
+    }
+    .edu p{
+        margin-top: -90px;
+        margin-left: 150px;
+        color:aliceblue;
+        font-size: 25px;
+    }
+    .ac{
+        border: 10px;
+        padding: 30px 10px;
+        text-decoration: none;
+        backdrop-filter: blur(3px);
+        background-color: rgba(159, 159, 159, 0.4);
+        color:white; 
+        font-size: 25px;
+        margin-top:30px;
+        margin-left: 100px;
+        margin-right: 100px;
+        border-radius: 15px;
+        position: relative;
+    }
+    .picc img{
+        margin-top: 25px;
+        margin-left: 30px;
+    }
+    .picc2 img{
+        margin-top: 60px;
+        margin-left: 30px;
+    }
+    .ac b{
+        font-size: 35px;
+    }
+    .ac p{
+        margin-top: -180px;
+        margin-left: 300px;
+        text-decoration: none;
+        font-size: 25px;
+    }
+    .picc3 img{
+        margin-top: 50px;
+        margin-left: 20px;
+    }
+    .picc4 img{
+        margin-top: 130px;
+        margin-left: 20px;
+    }
+    .picc5 img{
+        margin-top: 120px;
+        margin-left: 20px;
+    }
+    .bcc b{
+        font-size: 35px;
+    }
+    .bcc{
+        border: 20px;
+        padding: 20px 50px;
+        text-decoration: none;
+        backdrop-filter: blur(3px);
+        background-color: rgba(159, 159, 159, 0.2);
+        color:white; 
+        font-size: 20px;
+        margin-top:30px;
+        margin-left: 100px;
+        margin-right: 100px;
+        border-radius: 15px;
+        position: relative;
+    }
+    .bcc p{
+        margin-top: -200px;
+        margin-left: 300px;
+        text-decoration:none;
+        font-size: 25px;
+        height: 10vh;
+    }
+    .cc{
+        border: 30px;
+        padding: 20px 50px;
+        text-decoration: none;
+        backdrop-filter: blur(3px);
+        background-color: rgba(159, 159, 159, 0.2);
+        color:white; 
+        font-size: 20px;
+        margin-top:30px;
+        margin-left: 100px;
+        margin-right: 100px;
+        border-radius: 15px;
+        position: relative;
+    }
+    .cc b{
+        font-size: 35px;
+    }
+    .keelasee img{
+        border-radius: 100%;
+        margin-top: 50px;
+        margin-right: 330px;
+    }
+    .game img{
+        border-radius: 70%;
+        margin-left:350px;
+        display: flex;
+        margin-top: -55%;
+    }
+    .dek img{
+        border-radius: 70%;
+        margin-top:100px;
+    }
+    .ten img{
+        border-radius: 70%;
+        margin-left:350px;
+        display: flex;
+        margin-top:-250px;
+    }
+    .kai {
+        border: 30px;
+        padding: 30px 50px;
+        text-decoration: none;
+        backdrop-filter: blur(2px);
+        background-color: rgba(159, 159, 159, 0.4);
+        color:white; 
+        font-size: 25px;
+        margin-top:30px;
+        margin-left: 100px;
+        margin-right: 100px;
+        border-radius: 15px;
+        position: relative;
+    }
+    .pud {
+        margin-left:15px;
+        display:contents;
+        justify-content: center;
+    }
+    .kai p{
+        font-size: 25px;
+        margin-left: 5px;
+        margin-top: 5%;
+    }
+    .kai b{
+        font-size: 35px;
+    }
+    .it img{
+        margin-top: 5%;
+    }
+    .python img{
+      margin-top: 5%;
+        
+    }
+    .ai img{
+         
+        margin-top: 5%;
+    }
+    .tue img{
+    margin-top: 5%;
+    }
+    .fly img{
+    margin-top: 5%;
+    }
+    footer {
+        background-color: #336699;
+        padding: 5px;
+        padding-bottom: 0 px;
+        text-align: center;
+        color: white;
+        height: 50px;}      
+}
+@media  screen and (max-width:1366px) and (min-width:1024px){
+    body{
+        background-image: url(https://e0.pxfuel.com/wallpapers/75/581/desktop-wallpaper-mountain-minimalist-night-resolution-minimalist-and-background-1366-x-768-minimalist.jpg);
+    }
+    body {
+          background-repeat: no-repeat;
+          background-position: center;
+          background-attachment:fixed;
+          background-size:cover;
+          height: 250vh;
+        }
+    
+    nav {
+        backdrop-filter: blur(10px);
+        background-color: rgba(159, 159, 159, 0.4);
+        padding: 30px;
+        width: 90%;
+        display: flex;
+        align-items: center;
+        justify-content: space-between; 
+        border-radius: 60px;
+        margin-right: 30%;
+        margin-left:25px;
+        margin-top: 0%;
+        font-size: 25px;
+      }
+      .navbar-right a {
+        text-decoration: none;
+        color: #ffffff; 
+        border: none;
+        padding: 0px 30px;
+        border-radius: 0px;
+        cursor: pointer;
+      }
+      .name {
+        font-size: 60px;
+        margin-top: 50px;
+        margin-left: 60px;
+        color: aliceblue;
+      }
+      .pic img{
+        border-radius: 50%;
+        margin-left:65%;
+        margin-right: 5px;
+        margin-top: -50%;
+      }
+      .per1 b{
+        font-size: 45px;
+        color: aliceblue;
+        margin-left: 20%;
+        margin-top: 10px;
+      }
+      .per1 p{
+        font-size: 35px;
+        color: aliceblue;
+        margin-left: 40px;
+        text-decoration: none;
+      }
+      .per1 b p{
+        margin-top: 5px;
+      }
+      .per1{
+        border: 10px;
+        padding: 30px 10px;
+        text-decoration: none;
+        backdrop-filter: blur(2px);
+        background-color: rgba(159, 159, 159, 0.4);
+        color:white; 
+        margin-top:35px;
+        margin-left: 100px;
+        margin-right: 100px;
+        border-radius: 15px;
+        position: relative;
+      }
+      .edu {
+        border: 30px;
+        padding: 10px 10px;
+        text-decoration: none;
+        backdrop-filter: blur(2px);
+        background-color: rgba(159, 159, 159, 0.4);
+        color:white; 
+        font-size: 25px;
+        margin-top:30px;
+        margin-left: 100px;
+        margin-right: 100px;
+        border-radius: 15px;
+        position: relative;
+    }
+    .edu img{
+        border-radius: 50%;
+        height: 100px;
+        margin-top:15px;
+        margin-left: 30px;
+    }
+    .edu b{
+        font-size: 45px;
+    }
+    .edu p{
+        margin-top: -90px;
+        margin-left: 150px;
+        color:aliceblue;
+        font-size: 35px;
+    }
+    .ac{
+        border: 10px;
+        padding: 30px 10px;
+        text-decoration: none;
+        backdrop-filter: blur(3px);
+        background-color: rgba(159, 159, 159, 0.4);
+        color:white; 
+        font-size: 25px;
+        margin-top:30px;
+        margin-left: 100px;
+        margin-right: 100px;
+        border-radius: 15px;
+        position: relative;
+    }
+    .picc img{
+        margin-top: 35px;
+        margin-left: 30px;
+    }
+    .picc2 img{
+        margin-top: 90px;
+        margin-left: 30px;
+    }
+    .ac b{
+        font-size: 45px;
+    }
+    .ac p{
+        margin-top: -180px;
+        margin-left: 300px;
+        text-decoration: none;
+        font-size: 35px;
+    }
+    .picc3 img{
+        margin-top: 50px;
+        margin-left: 20px;
+    }
+    .picc4 img{
+        margin-top: 130px;
+        margin-left: 20px;
+    }
+    .picc5 img{
+        margin-top: 120px;
+        margin-left: 20px;
+    }
+    .bcc b{
+        font-size: 45px;
+    }
+    .bcc{
+        border: 20px;
+        padding: 20px 50px;
+        text-decoration: none;
+        backdrop-filter: blur(3px);
+        background-color: rgba(159, 159, 159, 0.2);
+        color:white; 
+        font-size: 20px;
+        margin-top:30px;
+        margin-left: 100px;
+        margin-right: 100px;
+        border-radius: 15px;
+        position: relative;
+    }
+    .bcc p{
+        margin-top: -200px;
+        margin-left: 300px;
+        text-decoration:none;
+        font-size: 35px;
+        height: 10vh;
+    }
+    .cc{
+        border: 30px;
+        padding: 20px 50px;
+        text-decoration: none;
+        backdrop-filter: blur(3px);
+        background-color: rgba(159, 159, 159, 0.2);
+        color:white; 
+        font-size: 20px;
+        margin-top:30px;
+        margin-left: 100px;
+        margin-right: 100px;
+        border-radius: 15px;
+        position: relative;
+    }
+    .cc b{
+        font-size: 45px;
+    }
+    .keelasee img{
+        border-radius: 100%;
+        margin-top: 50px;
+        margin-right: 310px;
+    }
+    .game img{
+        border-radius: 50%;
+        margin-left:400px;
+        display: flex;
+        margin-top: -50%;
+    }
+    .dek img{
+        border-radius: 70%;
+        margin-top:100px;
+    }
+    .ten img{
+        border-radius: 70%;
+        margin-left:400px;
+        display: flex;
+        margin-top:-250px;
+    }
+    .kai {
+        border: 30px;
+        padding: 30px 50px;
+        text-decoration: none;
+        backdrop-filter: blur(2px);
+        background-color: rgba(159, 159, 159, 0.4);
+        color:white; 
+        font-size: 25px;
+        margin-top:30px;
+        margin-left: 100px;
+        margin-right: 100px;
+        border-radius: 15px;
+        position: relative;
+    }
+    .pud {
+        margin-left:15px;
+        display:contents;
+        justify-content: center;
+    }
+    .kai p{
+        font-size: 35px;
+        margin-left: 5px;
+        margin-top: 5%;
+    }
+    .kai b{
+        font-size: 45px;
+    }
+    .it img{
+        margin-top: 5%;
+    }
+    .python img{
+      margin-top: 5%;
+        
+    }
+    .ai img{
+         
+        margin-top: 5%;
+    }
+    .tue img{
+    margin-top: 5%;
+    }
+    .fly img{
+    margin-top: 5%;
+    }
+    footer {
+        background-color: #336699;
+        padding: 5px;
+        padding-bottom: 0 px;
+        text-align: center;
+        color: white;
+        height: 50px;}      
+}
+@media  screen and (max-width:844px) and (min-width:390px){
+    body{
+        background-image: url(https://e0.pxfuel.com/wallpapers/75/581/desktop-wallpaper-mountain-minimalist-night-resolution-minimalist-and-background-1366-x-768-minimalist.jpg);
+    }
+    body {
+          background-repeat: no-repeat;
+          background-position: center;
+          background-attachment:fixed;
+          background-size:cover;
+          height: 250vh;
+        }
+    
+    nav {
+        backdrop-filter: blur(10px);
+        background-color: rgba(159, 159, 159, 0.4);
+        padding: 30px;
+        width: 90%;
+        display: flex;
+        align-items: center;
+        justify-content: space-between; 
+        border-radius: 60px;
+        margin-right: 30%;
+        margin-left:25px;
+        margin-top: 0%;
+        font-size: 25px;
+      }
+      .navbar-right a {
+        text-decoration: none;
+        color: #ffffff; 
+        border: none;
+        padding: 0px 30px;
+        border-radius: 0px;
+        cursor: pointer;
+      }
+      .name {
+        font-size: 60px;
+        margin-top: 50px;
+        margin-left: 60px;
+        color: aliceblue;
+      }
+      .pic img{
+        border-radius: 50%;
+        margin-left:65%;
+        margin-right: 5px;
+        margin-top: -50%;
+      }
+      .per1 b{
+        font-size: 45px;
+        color: aliceblue;
+        margin-left: 20%;
+        margin-top: 10px;
+      }
+      .per1 p{
+        font-size: 35px;
+        color: aliceblue;
+        margin-left: 40px;
+        text-decoration: none;
+      }
+      .per1 b p{
+        margin-top: 5px;
+      }
+      .per1{
+        border: 10px;
+        padding: 30px 10px;
+        text-decoration: none;
+        backdrop-filter: blur(2px);
+        background-color: rgba(159, 159, 159, 0.4);
+        color:white; 
+        margin-top:35px;
+        margin-left: 100px;
+        margin-right: 100px;
+        border-radius: 15px;
+        position: relative;
+      }
+      .edu {
+        border: 30px;
+        padding: 10px 10px;
+        text-decoration: none;
+        backdrop-filter: blur(2px);
+        background-color: rgba(159, 159, 159, 0.4);
+        color:white; 
+        font-size: 25px;
+        margin-top:30px;
+        margin-left: 100px;
+        margin-right: 100px;
+        border-radius: 15px;
+        position: relative;
+    }
+    .edu img{
+        border-radius: 50%;
+        height: 100px;
+        margin-top:15px;
+        margin-left: 30px;
+    }
+    .edu b{
+        font-size: 45px;
+    }
+    .edu p{
+        margin-top: -90px;
+        margin-left: 150px;
+        color:aliceblue;
+        font-size: 35px;
+    }
+    .ac{
+        border: 10px;
+        padding: 30px 10px;
+        text-decoration: none;
+        backdrop-filter: blur(3px);
+        background-color: rgba(159, 159, 159, 0.4);
+        color:white; 
+        font-size: 25px;
+        margin-top:30px;
+        margin-left: 100px;
+        margin-right: 100px;
+        border-radius: 15px;
+        position: relative;
+    }
+    .picc img{
+        margin-top: 35px;
+        margin-left: 30px;
+    }
+    .picc2 img{
+        margin-top: 90px;
+        margin-left: 30px;
+    }
+    .ac b{
+        font-size: 45px;
+    }
+    .ac p{
+        margin-top: -180px;
+        margin-left: 300px;
+        text-decoration: none;
+        font-size: 35px;
+    }
+    .picc3 img{
+        margin-top: 50px;
+        margin-left: 20px;
+    }
+    .picc4 img{
+        margin-top: 130px;
+        margin-left: 20px;
+    }
+    .picc5 img{
+        margin-top: 120px;
+        margin-left: 20px;
+    }
+    .bcc b{
+        font-size: 45px;
+    }
+    .bcc{
+        border: 20px;
+        padding: 20px 50px;
+        text-decoration: none;
+        backdrop-filter: blur(3px);
+        background-color: rgba(159, 159, 159, 0.2);
+        color:white; 
+        font-size: 20px;
+        margin-top:30px;
+        margin-left: 100px;
+        margin-right: 100px;
+        border-radius: 15px;
+        position: relative;
+    }
+    .bcc p{
+        margin-top: -200px;
+        margin-left: 300px;
+        text-decoration:none;
+        font-size: 35px;
+        height: 10vh;
+    }
+    .cc{
+        border: 30px;
+        padding: 20px 50px;
+        text-decoration: none;
+        backdrop-filter: blur(3px);
+        background-color: rgba(159, 159, 159, 0.2);
+        color:white; 
+        font-size: 20px;
+        margin-top:30px;
+        margin-left: 100px;
+        margin-right: 100px;
+        border-radius: 15px;
+        position: relative;
+    }
+    .cc b{
+        font-size: 45px;
+    }
+    .keelasee img{
+        border-radius: 100%;
+        margin-top: 50px;
+        margin-right: 310px;
+    }
+    .game img{
+        border-radius: 50%;
+        margin-left:400px;
+        display: flex;
+        margin-top: -50%;
+    }
+    .dek img{
+        border-radius: 70%;
+        margin-top:100px;
+    }
+    .ten img{
+        border-radius: 70%;
+        margin-left:400px;
+        display: flex;
+        margin-top:-250px;
+    }
+    .kai {
+        border: 30px;
+        padding: 30px 50px;
+        text-decoration: none;
+        backdrop-filter: blur(2px);
+        background-color: rgba(159, 159, 159, 0.4);
+        color:white; 
+        font-size: 25px;
+        margin-top:30px;
+        margin-left: 100px;
+        margin-right: 100px;
+        border-radius: 15px;
+        position: relative;
+    }
+    .pud {
+        margin-left:15px;
+        display:contents;
+        justify-content: center;
+    }
+    .kai p{
+        font-size: 35px;
+        margin-left: 5px;
+        margin-top: 5%;
+    }
+    .kai b{
+        font-size: 45px;
+    }
+    .it img{
+        margin-top: 5%;
+    }
+    .python img{
+      margin-top: 5%;
+        
+    }
+    .ai img{
+         
+        margin-top: 5%;
+    }
+    .tue img{
+    margin-top: 5%;
+    }
+    .fly img{
+    margin-top: 5%;
+    }
+    footer {
+        background-color: #336699;
+        padding: 5px;
+        padding-bottom: 0 px;
+        text-align: center;
+        color: white;
+        height: 50px;}      
+}
